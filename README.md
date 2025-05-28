@@ -1,7 +1,7 @@
 # Mondrian
 Mondrian painting program (done for class)
 
-Features
+## Features
 Recursive division of the canvas into rectangles
 
 Random coloring (red, blue, yellow, or white)
@@ -10,12 +10,12 @@ Click a rectangle to recolor it
 
 Press Esc to exit
 
-How to Run
+## How to Run
 Open in IntelliJ or any Kotlin-compatible IDE
 
 Run the main function in MondrianPainter.kt
 
-Concepts Practiced
+## Concepts Practiced
 Kotlin + Java interop
 
 Recursive spatial algorithms
